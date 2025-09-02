@@ -7,3 +7,7 @@ alo
 #bo qua file abc.xyz nhung van giu mỳile.xyz
 #se chi bo qua cac file .xyz trong git repo
 /*.xyz
+
+# bo qua file abc.txt trong se_folder
+
+second_folder/abc.txt
