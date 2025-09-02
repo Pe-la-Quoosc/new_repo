@@ -1,0 +1,5 @@
+#alo alo/   #ignore everything in the alo/ folder
+alo 
+
+#bo qua tat ca cac file co duoi la .log
+*.log
